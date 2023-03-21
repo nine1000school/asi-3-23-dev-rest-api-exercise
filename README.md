@@ -64,7 +64,7 @@ Not all resources require permissions (this is a hint to help you make the right
 - Create: admin
 - Read: admin or self (your own info when logged in)
 - Update: admin or self
-- Delete: admin
+- Delete: admin or self
 
 ### Page
 - Create: admin, manager
